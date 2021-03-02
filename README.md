@@ -3,7 +3,11 @@ Installation Methods for Snort by Cisco IPS
 
 For Full Video:
 
-https://www.youtube.com/watch?v=5pqcZyzFiOQ
+Part 1:
+https://vimeo.com/517269389 
+
+Part 2:
+https://vimeo.com/360bef638e
 
 How to transform your RPI4 into strong Firewall (IDS)
 ------------------------------------------------------
